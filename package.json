@@ -1,0 +1,19 @@
+{
+  "name": "spring2017day3",
+  "version": "1.0.0",
+  "description": "Day-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenOn/Spring2017Day3.git"
+  },
+  "author": "Pramod Vadrevu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenOn/Spring2017Day3/issues"
+  },
+  "homepage": "https://github.com/GreenOn/Spring2017Day3#readme"
+}
